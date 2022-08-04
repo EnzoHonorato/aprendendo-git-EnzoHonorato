@@ -2,3 +2,4 @@ Primeira versão do texto
 Segunda versão do texto
 Terceira versão do texto
 Nova linha na nova branch "Staging"
+Nova linha na nova branch "Staging"
